@@ -1,0 +1,11 @@
+#order-list {
+    width: 600px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#order-list tr td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}

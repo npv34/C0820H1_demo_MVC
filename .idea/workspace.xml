@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8aca8261-dacf-473d-a5a5-b0c3cc73ac9a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jlxoHJvFRyeLHj7lGY3gUx4E7A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ComposerRunConfigurationType" factoryName="Composer Script">
+      <option name="pathToComposerJson" value="$PROJECT_DIR$/composer.json" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8aca8261-dacf-473d-a5a5-b0c3cc73ac9a" name="Default Changelist" comment="" />
+      <created>1604392654819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604392654819</updated>
+      <workItem from="1604392656450" duration="4374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="121" key="#SQL_Dialects" timestamp="1604394043910">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="0" y="121" key="#SQL_Dialects/0.0.1280.720@0.0.1280.720" timestamp="1604394043910" />
+    <state x="189" y="13" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604393191774">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="189" y="13" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1604393191774" />
+    <state x="0" y="0" width="691" height="720" key="NewPhpClassDialog" timestamp="1604393832886">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="0" y="0" width="691" height="720" key="NewPhpClassDialog/0.0.1280.720@0.0.1280.720" timestamp="1604393832886" />
+    <state x="386" y="261" key="NewPhpFileDialog" timestamp="1604394988493">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="386" y="261" key="NewPhpFileDialog/0.0.1280.720@0.0.1280.720" timestamp="1604394988493" />
+    <state x="137" y="0" width="1005" height="1466" key="search.everywhere.popup" timestamp="1604394467781">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="137" y="0" width="1005" height="1466" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1604394467781" />
+  </component>
+</project>

@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/shop_online",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "PhanLuan",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "ext-pdo": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "app\\": "app/"
+    }
+  }
+}
